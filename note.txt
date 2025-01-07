@@ -1,0 +1,40 @@
+Nền tảng IT:
+- Toán rời rạc
+- PRF192: Tư duy lập trình
+- Kiến trúc máy tính
+- DBI202: Cơ sở dữ liệu
+- English
+
+Nội dung
+- 8 chương:
+  + Chương 1-3: Khó chịu (FE)
+  + Chương 4-8: Thực hành (PE)
+- Dạy và học
+  + Cần gì ở một lao động?
+  + Phân tích, tổng hợp và trình bày
+  + Thích nghi và hòa nhập
+  + Tự đào tạo
+- Dạy
+  + Giới thiệu những kiến thức trọng tâm
+  + Đặt bài toán, giám sát thực hiện, giải đáp thắc mắc
+- Học
+  + Học để làm gì?
+  + Tranh thủ học (tự học, hỏi)
+  + Mình có những gì?
+  + Phân tích và tổng hợp ở mức nào?
+  + Tài liệu
+
+Điểm
+- EduNext: 3 cột điểm
+- Trình bày thông qua "văn viết".
+
+Chia nhóm.
+- Tên nhóm Zalo: DBI_SE1938
+- Số liên hệ: 0383256720
+
+Tiến trình học
+- Tuần 1-4: Học xong chương 1-3
+- Tuần 5-7: Học xong chương 4-8
+- Tuần 8: Thi thử PE
+- Tuần 9: Ôn tập
+- Tuần 10: Kết điểm
